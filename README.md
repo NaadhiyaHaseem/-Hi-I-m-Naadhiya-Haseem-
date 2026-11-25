@@ -1,31 +1,29 @@
 # Hi, I'm Naadhiya Haseem!
 
-IT undergraduate exploring the world of technology, programming, and software development.
+### IT Undergraduate | Aspiring Developer
 
-### About Me
+Exploring technology, learning programming, and building my skills one project at a time.
 
-- Undergraduate in Information Technology
+## About Me
+
+- IT undergraduate at The Open University of Sri Lanka
 - Interested in software development and emerging technologies
-- Currently building my programming fundamentals
-- Exploring new technologies and learning through practice
+- Learning programming and web development
+- Exploring AI and technology
 
-### Education
+## Currently Learning
 
-- BSc in Information Technology — The Open University of Sri Lanka
-
-### Currently Learning
-
-- Programming fundamentals
-- Web development
+- HTML
+- CSS
+- JavaScript
 - Git & GitHub
 
-### Goals
+## Goals
 
-- Strengthen my programming skills
+- Develop strong programming fundamentals
 - Build practical projects
-- Explore different areas of IT
-- Grow as a developer through continuous learning
+- Collaborate with other developers
+- Explore software development and AI
 
 ---
-
 *Learning, building, and improving one step at a time.*
